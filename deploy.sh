@@ -8,7 +8,7 @@ npm run build
 
 # 进入生成的文件夹
 cd docs/.vuepress/dist
-
+git push --set-upstream origin gh-pagess
 # deploy to github pages
 echo 'b.xugaoyi.com' > CNAME
 

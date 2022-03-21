@@ -5,6 +5,9 @@
     },
     {
       "path": "../IceWk-main"
+    },
+    {
+      "path": "docs/.vuepress/dist"
     }
   ]
 }

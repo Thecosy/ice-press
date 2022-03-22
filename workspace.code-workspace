@@ -8,6 +8,9 @@
     },
     {
       "path": "docs/.vuepress/dist"
+    },
+    {
+      "path": "../pay-shangguigu"
     }
   ]
 }
